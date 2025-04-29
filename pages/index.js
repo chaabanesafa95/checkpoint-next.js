@@ -8,7 +8,7 @@ export default function Home() {
       <Header />
       <main className={styles.main}>
         <h1>Bienvenue sur mon Portfolio</h1>
-        <Image src="/profile.jpg" alt="Photo de profil" width={150} height={150} />
+        <Image src="/taswirti.png" alt="Photo de profil" width={200} height={200} />
         <p>Je suis développeur web passionné par Next.js</p>
       </main>
     </div>

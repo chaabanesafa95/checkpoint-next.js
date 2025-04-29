@@ -7,7 +7,7 @@ export default function About() {
       <Header />
       <main className={styles.main}>
         <h1>À propos de moi</h1>
-        <p>Je m'appelle [Ton Nom] et je suis développeur Fullstack.</p>
+        <p>Je m'appelle Safa Chaabane et je suis développeur Fullstack.</p>
       </main>
     </div>
   );

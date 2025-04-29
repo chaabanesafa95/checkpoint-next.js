@@ -7,7 +7,7 @@ export default function Contact() {
       <Header />
       <main className={styles.main}>
         <h1>Contactez-moi</h1>
-        <p>Email : tonemail@example.com</p>
+        <p>Email : chaabane.safa95@gmail.com</p>
       </main>
     </div>
   );
